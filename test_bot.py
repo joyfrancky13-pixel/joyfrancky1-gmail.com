@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-TOKEN = 8941502684:AAGGo0w1njEw0VDEgtKiBWBIDTnHRKTiiqM
+TOKEN = "8941502684:AAGGo0w1njEw0VDEgtKiBWBIDTnHRKTiiqM"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Bot foot en ligne ⚽ Envoie /score pour tester")
