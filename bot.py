@@ -4,7 +4,7 @@ from datetime import datetime
 # --- METS TES CODES ICI ---
 TELEGRAM_BOT_TOKEN = "8845238869:AAGZsQmuz-Dq7zYVspSILM8w_lht4N5Ecow"
 TELEGRAM_CHAT_ID = "6009299818"
-RAPIDAPI_KEY = "2be02ee8f8mshcd607db0595c057p1e06e5jsnd65eb69b4d0a"
+RAPIDAPI_KEY = "5f2cca8784msh69075a72d18d476p1bf485jsn815e38639d7e"
 # --------------------------
 
 def get_matches():
